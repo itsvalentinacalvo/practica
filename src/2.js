@@ -1,1 +1,1 @@
-/***** Mi nueva Edicion Archivo Master **********/
+/* Mi nueva Edicion Archivo Master */
